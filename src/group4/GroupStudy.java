@@ -17,6 +17,8 @@ public class GroupStudy {
 
         //write new things
 
+        //how can i say
+
 
     }
 }
