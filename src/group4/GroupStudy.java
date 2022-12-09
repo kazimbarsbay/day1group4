@@ -15,6 +15,13 @@ public class GroupStudy {
 
         //add some thing on master
 
+        //created branch2
+
+        //write new things
+
+        //how can i say
+
+
     }
 }
 
